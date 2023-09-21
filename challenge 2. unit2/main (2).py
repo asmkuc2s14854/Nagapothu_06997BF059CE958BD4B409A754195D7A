@@ -25,7 +25,7 @@ class BankAccount:
 
 
 account = BankAccount(account_number="123456789",
-                      account_holder_name="nagalakshmi",
+                      account_holder_name="nagapothu",
                       initial_balance=5000.0)
 
 account.display_balance()
